@@ -1,6 +1,6 @@
 import React from 'react';
 import { Sparkles, Gamepad2, Clapperboard, Tv, Music2, BookOpen, BookMarked, ArrowUpRight } from 'lucide-react';
-import Paragraph from './paragraph';
+import Paragraph from './Paragraph';
 
 const CATEGORIES = [
   { name: 'Anime', tagline: 'Stories beyond the screen', icon: Sparkles, image: 'images/1.jpg' },
