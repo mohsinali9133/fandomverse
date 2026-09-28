@@ -7,7 +7,7 @@ import {
 import ExploreSection from './exploreSec';
 import HeroSection from './heroSection';
 import SlideAnim from './SlideAnim';
-import Paragraph from './paragraph';
+import Paragraph from './Paragraph';
 import Char from './Char';
 import Header from './Header';
 import Footer from './Footer';
