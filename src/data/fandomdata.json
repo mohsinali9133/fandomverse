@@ -1,0 +1,1209 @@
+{
+  "categories": [
+    {
+      "id": "anime",
+      "name": "Anime",
+      "tagline": "Worlds beyond imagination, animated mastery & epic journeys",
+      "accentColor": "#8b5cf6",
+      "icon": "Sparkles",
+      "heroQuote": "Defy the boundaries of reality through high-octane narratives and visual brilliance."
+    },
+    {
+      "id": "gaming",
+      "name": "Gaming",
+      "tagline": "Next-gen interactive universes, esports titans & open-world legends",
+      "accentColor": "#06b6d4",
+      "icon": "Gamepad2",
+      "heroQuote": "Step into the fray where player reflex meets cinematic world-building."
+    },
+    {
+      "id": "movies",
+      "name": "Movies",
+      "tagline": "Blockbuster cinematic spectacles, auteur epics & legendary franchises",
+      "accentColor": "#f43f5e",
+      "icon": "Clapperboard",
+      "heroQuote": "The magic of 70mm dreams, immersive soundscapes, and silver screen legends."
+    },
+    {
+      "id": "tv",
+      "name": "TV Shows",
+      "tagline": "Binge-worthy sagas, prestige dramas & cult phenomenon series",
+      "accentColor": "#ec4899",
+      "icon": "Tv",
+      "heroQuote": "Serial storytelling sculpted with unmatched cliffhangers and character depth."
+    },
+    {
+      "id": "kpop",
+      "name": "K-Pop",
+      "tagline": "Global idols, synchronised choreography & mesmerizing fanlight oceans",
+      "accentColor": "#a855f7",
+      "icon": "Mic2",
+      "heroQuote": "A global cultural phenomenon driven by passionate fandoms, stellar visuals, and sonic perfection."
+    },
+    {
+      "id": "comics",
+      "name": "Comics",
+      "tagline": "Graphic legacy, superhero pantheons & visionary illustrated sagas",
+      "accentColor": "#f59e0b",
+      "icon": "BookOpen",
+      "heroQuote": "Panels that shaped modern mythology, from golden age ink to gritty multiverse epics."
+    },
+    {
+      "id": "manga",
+      "name": "Manga",
+      "tagline": "Masterful black & white inkwork, serialized tension & profound philosophy",
+      "accentColor": "#10b981",
+      "icon": "BookMarked",
+      "heroQuote": "Raw emotion penned page by page, honoring the timeless craft of Japanese mangaka."
+    }
+  ],
+  "characters": [
+    {
+      "id": "char-anime-1",
+      "categoryId": "anime",
+      "franchise": "Demon Slayer",
+      "name": "Tanjiro Kamado",
+      "series": "Kimetsu no Yaiba",
+      "role": "Demon Slayer Corp - Sun Breathing",
+      "avatar": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=600&auto=format&fit=crop&q=80",
+      "traits": ["Unyielding Empathy", "Sun Breathing", "Keen Sense of Smell", "Hardened Resolve"],
+      "biography": "A kind-hearted boy who becomes a Demon Slayer after his family is slaughtered and his younger sister Nezuko is transformed into a demon. Tanjiro wields the ancient Sun Breathing technique while seeking a cure."
+    },
+    {
+      "id": "char-anime-2",
+      "categoryId": "anime",
+      "franchise": "Solo Leveling",
+      "name": "Sung Jin-woo",
+      "series": "Solo Leveling: Arise",
+      "role": "Shadow Monarch",
+      "avatar": "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=600&auto=format&fit=crop&q=80",
+      "traits": ["Shadow Extraction", "Infinite Leveling", "Stealth & Dominance", "Monarch Aura"],
+      "biography": "Once mocked as the Weakest Hunter of All Mankind, Jin-woo awoke within the Double Dungeon to the mysterious System, unlocking infinite progression to claim the throne of the Shadow Monarch."
+    },
+    {
+      "id": "char-anime-3",
+      "categoryId": "anime",
+      "franchise": "Jujutsu Kaisen",
+      "name": "Satoru Gojo",
+      "series": "Jujutsu Kaisen",
+      "role": "Special Grade Jujutsu Sorcerer",
+      "avatar": "https://images.unsplash.com/photo-1534447677768-be436bb09401?w=600&auto=format&fit=crop&q=80",
+      "traits": ["Limitless Void", "Six Eyes", "Infinite Barrier", "Carefree Charisma"],
+      "biography": "The undisputed strongest sorcerer in the modern era. Holding both the Limitless technique and the Six Eyes, Gojo balances overwhelming cosmic power with a mentor's devotion to nurturing the next generation."
+    },
+    {
+      "id": "char-anime-4",
+      "categoryId": "anime",
+      "franchise": "Attack on Titan",
+      "name": "Levi Ackerman",
+      "series": "Shingeki no Kyojin",
+      "role": "Captain of the Special Operations Squad",
+      "avatar": "https://images.unsplash.com/photo-1563089145-599997674d42?w=600&auto=format&fit=crop&q=80",
+      "traits": ["Humanity's Strongest", "3D Maneuver Mastery", "Obsessive Cleanliness", "Deep Loyalty"],
+      "biography": "Renowned as humanity's most formidable warrior against the Titans. Levi possesses unmatched kinetic speed, unflinching discipline, and a stoic demeanor masking deep grief for fallen comrades."
+    },
+    {
+      "id": "char-anime-5",
+      "categoryId": "anime",
+      "franchise": "One Piece",
+      "name": "Monkey D. Luffy",
+      "series": "One Piece",
+      "role": "Captain of the Straw Hat Pirates / Emperor",
+      "avatar": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=600&auto=format&fit=crop&q=80",
+      "traits": ["Gear 5 Sun God Nika", "Conqueror's Haki", "Boundless Optimism", "Love for Meat"],
+      "biography": "The free-spirited pirate who ate the legendary Hito Hito no Mi Model: Nika. Luffy navigates the Grand Line toward the One Piece to become the freest person across all seven seas."
+    },
+    {
+      "id": "char-gaming-1",
+      "categoryId": "gaming",
+      "franchise": "Elden Ring",
+      "name": "Malenia, Blade of Miquella",
+      "series": "Elden Ring: Shadow of the Erdtree",
+      "role": "Demigod of the Haligtree",
+      "avatar": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=600&auto=format&fit=crop&q=80",
+      "traits": ["Waterfowl Dance", "Scarlet Rot", "Unmatched Swordsmanship", "Prosthetic Katana"],
+      "biography": "An undefeated swordswoman cursed from birth with the lethal Scarlet Rot. Malenia fought General Radahn to a standstill during the Shattering and stands guard over Miquella's Haligtree."
+    },
+    {
+      "id": "char-gaming-2",
+      "categoryId": "gaming",
+      "franchise": "Cyberpunk 2077",
+      "name": "Johnny Silverhand",
+      "series": "Cyberpunk 2077: Phantom Liberty",
+      "role": "Rockerboy / Samurai Lead Guitarist",
+      "avatar": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=600&auto=format&fit=crop&q=80",
+      "traits": ["Silver Cyberarm", "Malorian Arms 3516", "Anti-Corporate Rebel", "Relic Construct"],
+      "biography": "A charismatic, cynical cyber-rocker whose consciousness was encoded into the Relic biochip after bombing Arasaka Tower in 2023. He fights for Night City's soul from inside V's head."
+    },
+    {
+      "id": "char-gaming-3",
+      "categoryId": "gaming",
+      "franchise": "Genshin Impact",
+      "name": "Raiden Shogun (Ei)",
+      "series": "Genshin Impact",
+      "role": "Electro Archon of Inazuma",
+      "avatar": "https://images.unsplash.com/photo-1511512578047-dfb367046420?w=600&auto=format&fit=crop&q=80",
+      "traits": ["Musou no Hitotachi", "Plane of Euthymia", "Eternal Lightning", "Puppet Vessel"],
+      "biography": "The formidable ruler of the Inazuma Shogunate who pursued timeless Eternity for her nation, splitting her existence between a relentless automaton vessel and her inner meditative sanctum."
+    },
+    {
+      "id": "char-gaming-4",
+      "categoryId": "gaming",
+      "franchise": "Final Fantasy",
+      "name": "Cloud Strife",
+      "series": "Final Fantasy VII Rebirth",
+      "role": "Ex-SOLDIER 1st Class / Mercenary",
+      "avatar": "https://images.unsplash.com/photo-1579373903781-fd5c0c30c4cd?w=600&auto=format&fit=crop&q=80",
+      "traits": ["Buster Sword", "Omnislash", "Mako Infused", "Haunted Past"],
+      "biography": "A brooding mercenary bearing the colossal Buster Sword. Entangled in the eco-terrorist resistance against Shinra Electric Power Company, Cloud confronts his fractured memory and nemesis Sephiroth."
+    },
+    {
+      "id": "char-gaming-5",
+      "categoryId": "gaming",
+      "franchise": "The Witcher",
+      "name": "Geralt of Rivia",
+      "series": "The Witcher 3: Wild Hunt",
+      "role": "White Wolf of the School of the Wolf",
+      "avatar": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=600&auto=format&fit=crop&q=80",
+      "traits": ["Silver & Steel Blades", "Witcher Signs", "Mutated Senses", "Dry Sarcasm"],
+      "biography": "A mutated monster hunter for hire who navigates a morally gray Continent. Driven by fatherly love for his adoptive ward Ciri, Geralt traverses kingdoms pursued by the spectral Wild Hunt."
+    },
+    {
+      "id": "char-movies-1",
+      "categoryId": "movies",
+      "franchise": "Dune",
+      "name": "Paul Atreides (Muad'Dib)",
+      "series": "Dune: Part Two",
+      "role": "Duke of House Atreides / Kwisatz Haderach",
+      "avatar": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=600&auto=format&fit=crop&q=80",
+      "traits": ["Prescient Sight", "The Voice", "Sandworm Rider", "Fremen Messiah"],
+      "biography": "The prophetic scion of House Atreides who unites the Fremen tribes of Arrakis to wage a holy war against the Harkonnens and Emperor Shaddam IV across the desert dunes."
+    },
+    {
+      "id": "char-movies-2",
+      "categoryId": "movies",
+      "franchise": "Spider-Man",
+      "name": "Miles Morales",
+      "series": "Across the Spider-Verse",
+      "role": "Spider-Man of Earth-1610",
+      "avatar": "https://images.unsplash.com/photo-1635805737707-575885ab0820?w=600&auto=format&fit=crop&q=80",
+      "traits": ["Venom Strike Blast", "Active Camouflage", "Multiverse Rebel", "Brooklyn Swagger"],
+      "biography": "Brooklyn's teenage Spider-Man who defies the deterministic canon of the Spider-Society to save his father, asserting his own destiny across infinite multiverses."
+    },
+    {
+      "id": "char-movies-3",
+      "categoryId": "movies",
+      "franchise": "Marvel Cinematic Universe",
+      "name": "Tony Stark (Iron Man)",
+      "series": "Avengers: Endgame",
+      "role": "Genius, Billionaire, Philanthropist",
+      "avatar": "https://images.unsplash.com/photo-1604200213928-ba3cf4fc8436?w=600&auto=format&fit=crop&q=80",
+      "traits": ["Nanotech Armor", "Arc Reactor Heart", "Strategic Genius", "Sacrificial Valor"],
+      "biography": "The visionary engineer who inaugurated the modern superhero age. Stark forged cutting-edge powered suits to safeguard Earth before wielding the Infinity Gauntlet for humanity's salvation."
+    },
+    {
+      "id": "char-movies-4",
+      "categoryId": "movies",
+      "franchise": "Star Wars",
+      "name": "Ahsoka Tano",
+      "series": "Star Wars Saga",
+      "role": "Former Jedi / Fulcrum Rebel",
+      "avatar": "https://images.unsplash.com/photo-1579546929518-9e396f3cc809?w=600&auto=format&fit=crop&q=80",
+      "traits": ["Dual White Lightsabers", "Jar'Kai Mastery", "Togruta Montrals", "Balance in the Force"],
+      "biography": "Anakin Skywalker's former apprentice who walked away from the Jedi Order to follow the pure light of the Force. Ahsoka stood as a beacon of hope against the Galactic Empire."
+    },
+    {
+      "id": "char-movies-5",
+      "categoryId": "movies",
+      "franchise": "Lord of the Rings",
+      "name": "Aragorn II Elessar",
+      "series": "The Return of the King",
+      "role": "High King of Gondor and Arnor",
+      "avatar": "https://images.unsplash.com/photo-1514533450685-4493e01d1fdc?w=600&auto=format&fit=crop&q=80",
+      "traits": ["Andúril Flame of the West", "Dúnedain Lineage", "Tracking & Survival", "Unshakable Courage"],
+      "biography": "The Chieftain of the Rangers of the North who stepped out of exile to claim his rightful heritage, uniting the Free Peoples of Middle-earth at the Black Gate of Mordor."
+    },
+    {
+      "id": "char-tv-1",
+      "categoryId": "tv",
+      "franchise": "Stranger Things",
+      "name": "Eleven (Jane Hopper)",
+      "series": "Stranger Things",
+      "role": "Psychokinetic Hero of Hawkins",
+      "avatar": "https://images.unsplash.com/photo-1516257984-b1b4d707412e?w=600&auto=format&fit=crop&q=80",
+      "traits": ["Telekinesis", "Remote Viewing", "Upside Down Rift Gate", "Eggo Waffle Connoisseur"],
+      "biography": "A young girl with extraordinary psychokinetic powers escaped from Hawkins National Laboratory. Alongside her found family, she defends Hawkins against the terrifying Mind Flayer and Vecna."
+    },
+    {
+      "id": "char-tv-2",
+      "categoryId": "tv",
+      "franchise": "The Last of Us",
+      "name": "Joel Miller",
+      "series": "The Last of Us",
+      "role": "Hardened Post-Pandemic Survivor",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&auto=format&fit=crop&q=80",
+      "traits": ["Resource Crafting", "Survivalist Grit", "Acoustic Guitar", "Fierce Protectiveness"],
+      "biography": "A grief-hardened smuggler tasked with escorting Ellie, an immune teenage girl, across the fungal infected ruins of America, forming an unbreakable parental bond."
+    },
+    {
+      "id": "char-tv-3",
+      "categoryId": "tv",
+      "franchise": "Arcane",
+      "name": "Jinx (Powder)",
+      "series": "Arcane: League of Legends",
+      "role": "Zaunite Loose Cannon & Chemtech Savant",
+      "avatar": "https://images.unsplash.com/photo-1566492031773-4f4e44671857?w=600&auto=format&fit=crop&q=80",
+      "traits": ["Fishbones Rocket", "Pow-Pow Minigun", "Shimmer Infusion", "Unpredictable Chaos"],
+      "biography": "A brilliant yet traumatized inventor torn between her childhood memory as Powder and her lethal persona as Jinx, catalyzing the revolutionary conflict between Piltover and Zaun."
+    },
+    {
+      "id": "char-tv-4",
+      "categoryId": "tv",
+      "franchise": "House of the Dragon",
+      "name": "Daemon Targaryen",
+      "series": "House of the Dragon",
+      "role": "Rogue Prince / Rider of Caraxes",
+      "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=600&auto=format&fit=crop&q=80",
+      "traits": ["Dark Sister Valyrian Blade", "Caraxes the Blood Wyrm", "Volatile Ambition", "Valyrian Bloodline"],
+      "biography": "The unpredictable and lethal younger brother of King Viserys I. As consort to Queen Rhaenyra, Daemon champions the Black faction in the fiery civil war known as the Dance of the Dragons."
+    },
+    {
+      "id": "char-tv-5",
+      "categoryId": "tv",
+      "franchise": "Wednesday",
+      "name": "Wednesday Addams",
+      "series": "Wednesday",
+      "role": "Nevermore Academy Outcast & Psychic Sleuth",
+      "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=600&auto=format&fit=crop&q=80",
+      "traits": ["Macabre Wit", "Psychic Visions", "Cello Virtuoso", "Uncanny Deductions"],
+      "biography": "The deadpan daughter of the Addams family enrolled at Nevermore Academy. Wednesday navigates supernatural murders, secret societies, and monstrous curses with chilling poise."
+    },
+    {
+      "id": "char-kpop-1",
+      "categoryId": "kpop",
+      "franchise": "BTS",
+      "name": "RM (Kim Nam-joon)",
+      "series": "BTS (Bangtan Sonyeondan)",
+      "role": "Leader, Main Rapper & Producer",
+      "avatar": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?w=600&auto=format&fit=crop&q=80",
+      "traits": ["Philosophical Lyrics", "148 IQ Art Connoisseur", "UN Speech Orator", "Musical Direction"],
+      "biography": "The eloquent leader and lyricist of BTS whose introspective compositions and poetic worldview propelled the septet to historic stadium milestones worldwide."
+    },
+    {
+      "id": "char-kpop-2",
+      "categoryId": "kpop",
+      "franchise": "BLACKPINK",
+      "name": "Jennie Kim",
+      "series": "BLACKPINK",
+      "role": "Main Rapper & Lead Vocalist",
+      "avatar": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=600&auto=format&fit=crop&q=80",
+      "traits": ["Human Chanel", "Hypnotic Flow", "Coachella Headliner", "Trendsetting Style"],
+      "biography": "The fierce, dual-charm icon of BLACKPINK known for razor-sharp rap deliveries, soulful vocals, and world-shaping fashion influence across Seoul and Paris."
+    },
+    {
+      "id": "char-kpop-3",
+      "categoryId": "kpop",
+      "franchise": "NewJeans",
+      "name": "Hanni (Phạm Hanni)",
+      "series": "NewJeans",
+      "role": "Vocalist, Dancer & Songwriter",
+      "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=600&auto=format&fit=crop&q=80",
+      "traits": ["Y2K Nostalgia Aesthetic", "Soulful Acoustic Vocals", "Viral Choreography", "Trilingual"],
+      "biography": "A standout voice of NewJeans who helped spark the global Y2K aesthetic renaissance with sweet honey tones on smash records 'Hype Boy', 'Ditto', and 'OMG'."
+    },
+    {
+      "id": "char-kpop-4",
+      "categoryId": "kpop",
+      "franchise": "Stray Kids",
+      "name": "Bang Chan",
+      "series": "Stray Kids (3RACHA)",
+      "role": "Leader, Producer & Vocalist",
+      "avatar": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=600&auto=format&fit=crop&q=80",
+      "traits": ["Self-Produced Bangers", "All-Rounder Performer", "Chan's Room Safe Haven", "Thunderous Energy"],
+      "biography": "The tireless mastermind behind Stray Kids' signature self-produced sound. Bang Chan leads 3RACHA in crafting genre-defying stadium anthems rooted in authenticity."
+    },
+    {
+      "id": "char-kpop-5",
+      "categoryId": "kpop",
+      "franchise": "aespa",
+      "name": "Karina (Yu Ji-min)",
+      "series": "aespa",
+      "role": "Leader, Main Dancer & Face of the Group",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=600&auto=format&fit=crop&q=80",
+      "traits": ["CGI-Like Visuals", "ae-Karina Avatar Synch", "Powerful Stage Presence", "Sharp Popping"],
+      "biography": "The charismatic frontwoman of aespa bridging the real world and the virtual KWANGYA dimension through hyper-pop hits like 'Next Level' and 'Supernova'."
+    },
+    {
+      "id": "char-comics-1",
+      "categoryId": "comics",
+      "franchise": "DC Comics",
+      "name": "Batman (Bruce Wayne)",
+      "series": "Detective Comics",
+      "role": "The Dark Knight of Gotham",
+      "avatar": "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?w=600&auto=format&fit=crop&q=80",
+      "traits": ["World's Greatest Detective", "Peak Human Conditioning", "Batcave Arsenal", "Strict No-Kill Code"],
+      "biography": "Billionaire philanthropist Bruce Wayne channels personal tragedy into an eternal crusade against crime in Gotham City, relying on martial mastery, deduction, and tactical technology."
+    },
+    {
+      "id": "char-comics-2",
+      "categoryId": "comics",
+      "franchise": "Marvel Comics",
+      "name": "Spider-Gwen (Gwen Stacy)",
+      "series": "Ghost-Spider / Earth-65",
+      "role": "Ghost-Spider & The Mary Janes Drummer",
+      "avatar": "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?w=600&auto=format&fit=crop&q=80",
+      "traits": ["Neon Hooded Suit", "Percussion Rhythm Fighting", "Dimensional Travel", "Spider-Sense"],
+      "biography": "On Earth-65, Gwen Stacy was bitten by the genetically altered spider instead of Peter Parker, balancing rock band drum rehearsals with vigilante heroics."
+    },
+    {
+      "id": "char-comics-3",
+      "categoryId": "comics",
+      "franchise": "Image Comics",
+      "name": "Invincible (Mark Grayson)",
+      "series": "Invincible",
+      "role": "Viltrumite-Human Hybrid Protector",
+      "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=600&auto=format&fit=crop&q=80",
+      "traits": ["Superhuman Durability", "Supersonic Flight", "Brutal Determination", "Viltrumite Heritage"],
+      "biography": "The son of Omni-Man who discovers his alien heritage and endures visceral, world-shattering trials to protect Earth from cosmic tyrannical conquest."
+    },
+    {
+      "id": "char-comics-4",
+      "categoryId": "comics",
+      "franchise": "DC Vertigo",
+      "name": "Morpheus (Dream of the Endless)",
+      "series": "The Sandman",
+      "role": "Lord of the Dreaming",
+      "avatar": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=600&auto=format&fit=crop&q=80",
+      "traits": ["Shaper of Realities", "Ruby of Dreams", "Helm of Bone", "Immortal Endless"],
+      "biography": "One of the seven immortal Endless anthropomorphic personifications, Dream rules the realm of sleep, imagination, and mythic storytelling across mortal history."
+    },
+    {
+      "id": "char-comics-5",
+      "categoryId": "comics",
+      "franchise": "Marvel Comics",
+      "name": "Wolverine (Logan)",
+      "series": "X-Men",
+      "role": "Weapon X Mutant Berzerker",
+      "avatar": "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?w=600&auto=format&fit=crop&q=80",
+      "traits": ["Adamantium Skeleton", "Accelerated Healing Factor", "Retractable Claws", "Animalistic Instincts"],
+      "biography": "A century-old Canadian mutant survivor endowed with razor claws and regenerative vitality, Logan serves as the gritty moral anchor and fierce combatant of Charles Xavier's X-Men."
+    },
+    {
+      "id": "char-manga-1",
+      "categoryId": "manga",
+      "franchise": "Berserk",
+      "name": "Guts (The Black Swordsman)",
+      "series": "Berserk by Kentaro Miura",
+      "role": "The Branded Struggler",
+      "avatar": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=600&auto=format&fit=crop&q=80",
+      "traits": ["Dragon Slayer Colossal Blade", "Berserker Armor", "Prosthetic Cannon Arm", "Defiance of Fate"],
+      "biography": "A mercenary born from a corpse who defies cosmic causality and the God Hand with the sheer weight of his monstrous Dragon Slayer blade and iron human willpower."
+    },
+    {
+      "id": "char-manga-2",
+      "categoryId": "manga",
+      "franchise": "Chainsaw Man",
+      "name": "Denji",
+      "series": "Chainsaw Man by Tatsuki Fujimoto",
+      "role": "Public Safety Devil Hunter",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=600&auto=format&fit=crop&q=80",
+      "traits": ["Cord-Pull Transformation", "Pochita Devil Heart", "Chaotic Resilience", "Desire for Normal Life"],
+      "biography": "A destitute teen fused with Pochita, the Chainsaw Devil. Denji slices through devils in absurd, gore-splashed spectacles while yearning for genuine connection."
+    },
+    {
+      "id": "char-manga-3",
+      "categoryId": "manga",
+      "franchise": "Vagabond",
+      "name": "Miyamoto Musashi (Shinmen Takezo)",
+      "series": "Vagabond by Takehiko Inoue",
+      "role": "Legendary Ronin Philosopher",
+      "avatar": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=600&auto=format&fit=crop&q=80",
+      "traits": ["Two Heavens as One Style", "Spiritual Enlightenment", "Zen Brushwork", "Pursuit of True Strength"],
+      "biography": "Inoue's masterfully inked depiction of Japan's most revered swordsman, traversing the Sengoku era to unlearn beastly rage and discover serenity beneath heaven and earth."
+    },
+    {
+      "id": "char-manga-4",
+      "categoryId": "manga",
+      "franchise": "Spy x Family",
+      "name": "Anya Forger",
+      "series": "Spy x Family by Tatsuya Endo",
+      "role": "Telepathic Student (Subject 007)",
+      "avatar": "https://images.unsplash.com/photo-1516257984-b1b4d707412e?w=600&auto=format&fit=crop&q=80",
+      "traits": ["Mind Reading", "Peanut Addiction", "Smug Smirk Face", "Stella Star Dreamer"],
+      "biography": "An adorable telepathic orphan adopted into the fake Forger family. Anya alone knows her father is an elite spy and her mother an assassin, working in secret to preserve world peace."
+    },
+    {
+      "id": "char-manga-5",
+      "categoryId": "manga",
+      "franchise": "Tokyo Ghoul",
+      "name": "Ken Kaneki",
+      "series": "Tokyo Ghoul / :re by Sui Ishida",
+      "role": "One-Eyed King",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&auto=format&fit=crop&q=80",
+      "traits": ["Rinkaku Kagune", "Ghoul Mask", "Centipede Kakuja", "Tragic Philosophy"],
+      "biography": "A mild-mannered literature student transformed into a half-ghoul organ recipient who endures psychological torment to become the bridge of understanding between humanity and ghouls."
+    }
+  ],
+  "events": [
+    {
+      "id": "evt-anime-1",
+      "categoryId": "anime",
+      "title": "AnimeJapan 2026 Grand Expo",
+      "date": "March 21-24, 2026",
+      "location": "Tokyo Big Sight, Odaiba, Japan",
+      "description": "The planet's flagship anime gathering featuring world premiere screenings, creator panels from MAPPA & ufotable, exclusive stage spectacles, and original production cels.",
+      "type": "Convention",
+      "status": "Upcoming"
+    },
+    {
+      "id": "evt-anime-2",
+      "categoryId": "anime",
+      "title": "Anime Expo (AX) 2026",
+      "date": "July 2-5, 2026",
+      "location": "Los Angeles Convention Center, CA, USA",
+      "description": "North America's biggest celebration of Japanese pop culture, voice actor meetups, AMV championships, and monumental artist alleys.",
+      "type": "Convention",
+      "status": "Upcoming"
+    },
+    {
+      "id": "evt-anime-3",
+      "categoryId": "anime",
+      "title": "Demon Slayer Infinity Castle World Premiere Watch Party",
+      "date": "November 14, 2025",
+      "location": "Worldwide IMAX & Virtual Stream",
+      "description": "Simultaneous global IMAX screening and live fan watch party celebrating the cinematic climax of the Infinity Castle Arc.",
+      "type": "Watch Party",
+      "status": "Past"
+    },
+    {
+      "id": "evt-gaming-1",
+      "categoryId": "gaming",
+      "title": "Summer Game Fest 2026 Showcase",
+      "date": "June 11-14, 2026",
+      "location": "YouTube Theater, Inglewood, CA, USA",
+      "description": "Geoff Keighley's blockbuster gaming keynote featuring premier game reveals, world premiere trailers, and hands-on developer demos.",
+      "type": "Keynote & Expo",
+      "status": "Upcoming"
+    },
+    {
+      "id": "evt-gaming-2",
+      "categoryId": "gaming",
+      "title": "Valorant Champions World Finals 2026",
+      "date": "August 28-30, 2026",
+      "location": "Accor Arena, Paris, France",
+      "description": "The pinnacle of tactical shooter esports where 16 elite regional champions clash on the world stage for the Champions trophy.",
+      "type": "Esports Tournament",
+      "status": "Upcoming"
+    },
+    {
+      "id": "evt-gaming-3",
+      "categoryId": "gaming",
+      "title": "Tokyo Game Show (TGS) 2025",
+      "date": "September 25-28, 2025",
+      "location": "Makuhari Messe, Chiba, Japan",
+      "description": "Asia's prestigious gaming exhibition showcasing major JRPGs, indie innovators, VR hardware, and next-gen gaming previews.",
+      "type": "Convention",
+      "status": "Past"
+    },
+    {
+      "id": "evt-movies-1",
+      "categoryId": "movies",
+      "title": "San Diego Comic-Con International: Hall H Movie Showcase",
+      "date": "July 23-26, 2026",
+      "location": "San Diego Convention Center, CA, USA",
+      "description": "The legendary Hall H panels with Marvel Studios, DC Studios, and legendary sci-fi directors unveiling unreleased trailers and star-studded casts.",
+      "type": "Convention & Panels",
+      "status": "Upcoming"
+    },
+    {
+      "id": "evt-movies-2",
+      "categoryId": "movies",
+      "title": "Festival de Cannes 79th Cinema Tribute",
+      "date": "May 12-23, 2026",
+      "location": "Palais des Festivals, Cannes, France",
+      "description": "The apex of international cinematic artistry, red carpet glamour, and genre-defining masterpieces competing for the Palme d'Or.",
+      "type": "Film Festival",
+      "status": "Upcoming"
+    },
+    {
+      "id": "evt-movies-3",
+      "categoryId": "movies",
+      "title": "Dune: Part Two 70mm Fan Marathon & Director Q&A",
+      "date": "February 27, 2025",
+      "location": "BFI IMAX, London, UK",
+      "description": "Exclusive midnight marathon with Denis Villeneuve and sound designers deconstructing the desert epic in authentic 70mm IMAX.",
+      "type": "Watch Party & Q&A",
+      "status": "Past"
+    },
+    {
+      "id": "evt-tv-1",
+      "categoryId": "tv",
+      "title": "Stranger Things Season 5 Global Series Finale Watch Party",
+      "date": "October 31, 2026",
+      "location": "Madison Square Garden & Global Simulcast",
+      "description": "Massive immersive fan watch party celebrating the epic conclusion of the Hawkins saga with live orchestra and retro arcade concourses.",
+      "type": "Watch Party",
+      "status": "Upcoming"
+    },
+    {
+      "id": "evt-tv-2",
+      "categoryId": "tv",
+      "title": "ATX TV Festival Season 15",
+      "date": "May 28-31, 2026",
+      "location": "Austin, Texas, USA",
+      "description": "Television's favorite community retreat celebrating showrunners, cast reunions, sneak previews, and interactive writing rooms.",
+      "type": "Festival",
+      "status": "Upcoming"
+    },
+    {
+      "id": "evt-tv-3",
+      "categoryId": "tv",
+      "title": "House of the Dragon Dragonpit Premiere Gala",
+      "date": "June 14, 2025",
+      "location": "Leicester Square, London, UK",
+      "description": "Red carpet premiere with cast members, life-sized Caraxes skull installations, and exclusive screening of season premiere.",
+      "type": "Premiere Gala",
+      "status": "Past"
+    },
+    {
+      "id": "evt-kpop-1",
+      "categoryId": "kpop",
+      "title": "BTS 'Chapter 3' Stadium Reunion World Tour Opening",
+      "date": "November 20-22, 2026",
+      "location": "Seoul Olympic Stadium, South Korea",
+      "description": "Historic full-group reunion stadium concerts following military discharge completion, featuring a 360-degree stage and synced ARMY bombs.",
+      "type": "Stadium Concert",
+      "status": "Upcoming"
+    },
+    {
+      "id": "evt-kpop-2",
+      "categoryId": "kpop",
+      "title": "KCON Worldwide Los Angeles 2026",
+      "date": "August 14-16, 2026",
+      "location": "Crypto.com Arena & LA Convention Center, CA",
+      "description": "The mega K-Culture convention with hi-touch fan engagements, dance workshops, Korean culinary streets, and nightly M COUNTDOWN concerts.",
+      "type": "Convention & Concert",
+      "status": "Upcoming"
+    },
+    {
+      "id": "evt-kpop-3",
+      "categoryId": "kpop",
+      "title": "MAMA Awards Global 2025 Ceremony",
+      "date": "November 28-29, 2025",
+      "location": "Kyocera Dome, Osaka, Japan",
+      "description": "Asia's premier music award gala with breathtaking collaborative crossover stages, iconic dance breaks, and worldwide fan choice honors.",
+      "type": "Award Ceremony",
+      "status": "Past"
+    },
+    {
+      "id": "evt-comics-1",
+      "categoryId": "comics",
+      "title": "New York Comic Con (NYCC) 2026",
+      "date": "October 8-11, 2026",
+      "location": "Javits Center, New York, NY, USA",
+      "description": "The east coast epicenter of comic books, creator spotlight alleys, cosplayer championships, and exclusive variant foil printings.",
+      "type": "Convention",
+      "status": "Upcoming"
+    },
+    {
+      "id": "evt-comics-2",
+      "categoryId": "comics",
+      "title": "Free Comic Book Day (FCBD) 2026",
+      "date": "May 2, 2026",
+      "location": "Participating Comic Book Stores Worldwide",
+      "description": "The annual community tradition where local comic shops give away specially published comic books to celebrate graphic literature.",
+      "type": "Community Celebration",
+      "status": "Upcoming"
+    },
+    {
+      "id": "evt-comics-3",
+      "categoryId": "comics",
+      "title": "Batman Day Gotham Midnight Signing & Drone Spectacle",
+      "date": "September 20, 2025",
+      "location": "Times Square, New York, NY, USA",
+      "description": "Sky illuminated by 1,000 synchronized Bat-Signal drones while legendary comic scribes sign commemorative Batman #1 reprints.",
+      "type": "Meetup & Fan Night",
+      "status": "Past"
+    },
+    {
+      "id": "evt-manga-1",
+      "categoryId": "manga",
+      "title": "Jump Festa 2026",
+      "date": "December 19-20, 2026",
+      "location": "Makuhari Messe, Chiba, Japan",
+      "description": "Shueisha's flagship manga festival with original manuscript galleries, voice actor Super Stages, and breaking serialization announcements.",
+      "type": "Manga Festival",
+      "status": "Upcoming"
+    },
+    {
+      "id": "evt-manga-2",
+      "categoryId": "manga",
+      "title": "Angoulême International Comics & Manga Festival 2026",
+      "date": "January 29 - Feb 1, 2026",
+      "location": "Angoulême, France",
+      "description": "Europe's most revered graphic novel and manga concourse awarding the prestigious Grand Prix to international masters of illustrated narrative.",
+      "type": "Festival & Exhibition",
+      "status": "Upcoming"
+    },
+    {
+      "id": "evt-manga-3",
+      "categoryId": "manga",
+      "title": "Kentaro Miura Berserk Memorial Art Exhibition",
+      "date": "August 8-17, 2025",
+      "location": "Sunshine City, Ikebukuro, Tokyo, Japan",
+      "description": "A reverent display of over 300 original hand-drawn Berserk ink manuscripts, life-sized Zodd statue, and tribute illustrations from mangaka.",
+      "type": "Exhibition",
+      "status": "Past"
+    }
+  ],
+  "articles": [
+    {
+      "id": "art-1",
+      "categoryId": "anime",
+      "title": "The Evolution of Modern Ufotable & MAPPA Animation Craft",
+      "subtitle": "How dynamic 3D camera mapping and traditional sakuga redefined action cinema",
+      "author": "Kenji Takahashi",
+      "readTime": "5 min read",
+      "date": "Sep 20, 2026",
+      "image": "/src/assets/images/anime_demon_slayer_village_1790273530168.jpg",
+      "excerpt": "From Demon Slayer's celestial Sun Breathing sequences to Jujutsu Kaisen's Shibuya Incident, anime studios have bridged photorealistic lighting with hand-drawn spirit.",
+      "content": "Over the past decade, Japanese animation has experienced a monumental technical and creative renaissance. Where traditional cell animation once required strict limitations on moving perspective, modern computer-generated background mapping and dynamic virtual cameras now let directors orchestrate exhilarating combat scenes with seamless camera rotation.\n\nStudios like ufotable and MAPPA have spearheaded this hybrid aesthetic. In ufotable's Demon Slayer: Kimetsu no Yaiba, the visual effects team treats elemental techniques—such as water ripples and solar flares—as bespoke digital sculptures that interact dynamically with hand-drawn character frames.\n\nSimultaneously, MAPPA's work on Jujutsu Kaisen and Chainsaw Man pushes cinematic pacing, employing raw brush strokes, intentional distortion, and photorealistic particle illumination. This synthesis doesn't diminish the human animator's hand; rather, it magnifies the emotional resonance of every strike and gesture.",
+      "tags": ["Animation", "Production", "Sakuga", "Cinematography"],
+      "relatedIds": ["art-7", "trailer-anime-1"]
+    },
+    {
+      "id": "art-2",
+      "categoryId": "gaming",
+      "title": "Open-World Architecture: From Elden Ring to Night City",
+      "subtitle": "Deconstructing spatial curiosity, vertical landmarks, and environmental narrative",
+      "author": "Elena Rostova",
+      "readTime": "6 min read",
+      "date": "Sep 18, 2026",
+      "image": "/src/assets/images/cyberpunk_gaming_championship_1790273541987.jpg",
+      "excerpt": "The greatest virtual worlds do not overwhelm with checklist markers; they beckon the wanderer through visual sightlines and emergent discoveries.",
+      "content": "Game world design has reached an inflection point. Players no longer seek synthetic radar pings and cluttered mini-maps; instead, they yearn for worlds that speak through physical geography.\n\nIn FromSoftware's Elden Ring, the colossal golden boughs of the Erdtree serve as an omnipresent compass. No matter where the Tarnished wanders across the Lands Between, the glowing tree establishes scale, orientation, and wonder. Every ridge reveals an enticing silhouette—a decaying cathedral, an inverted tower, or a dragon-haunted swamp.\n\nContrast this with the vertical brutalism of Cyberpunk 2077's Night City. Megabuildings loom like cybernetic monoliths, forcing the player to gaze upward through neon smog and labyrinthine skybridges. Environmental storytelling is etched into every back alley dumpster and holographic diner sign. These spaces feel lived-in because their architecture embodies their societal contradictions.",
+      "tags": ["Level Design", "Open World", "Gaming Lore", "Game Engine"],
+      "relatedIds": ["char-gaming-1", "char-gaming-2"]
+    },
+    {
+      "id": "art-3",
+      "categoryId": "kpop",
+      "title": "The Architecture of a K-Pop Comeback: Visual Identity & Concept Lore",
+      "subtitle": "How contemporary idols engineer cohesive multi-platform mythologies",
+      "author": "Min-seo Park",
+      "readTime": "4 min read",
+      "date": "Sep 15, 2026",
+      "image": "/src/assets/images/kpop_stadium_concert_lights_1790273555448.jpg",
+      "excerpt": "A K-Pop comeback is not merely a song drop—it is an all-encompassing narrative campaign encompassing cinematic teasers, album packaging, and choreography symbolism.",
+      "content": "To understand the global triumph of K-Pop is to appreciate its holistic creative architecture. Long before title tracks arrive on streaming platforms, creative directors orchestrate cryptic cinematic teasers, moody mood boards, and thematic typography that hint at the era's narrative direction.\n\nWhether it is BTS deconstructing Jungian psychology and literary archetypes, NewJeans revitalizing Y2K nostalgia through camcorder aesthetics, or aespa navigating cybernetic avatars in the virtual metaverse, each release delivers a 360-degree sensory experience.\n\nThe physical merchandise mirrors this design devotion. Albums are not flimsy plastic jewel cases; they are conceptual artbooks packed with photobooks, collectible cards, and custom packaging. Paired with synchronized fan lightsticks that turn stadiums into glowing waves of synchronized light, the boundary between artist and audience dissolves into pure collective ecstasy.",
+      "tags": ["Music Culture", "Creative Direction", "Global Phenomenon", "Concerts"],
+      "relatedIds": ["merch-kpop-1", "evt-kpop-1"]
+    },
+    {
+      "id": "art-4",
+      "categoryId": "movies",
+      "title": "The IMAX Renaissance: Crafting Sound & Vision for the 70mm Screen",
+      "subtitle": "Why legendary directors fight to preserve physical film and monumental cinema",
+      "author": "Julian Vance",
+      "readTime": "7 min read",
+      "date": "Sep 12, 2026",
+      "image": "/src/assets/images/hero_fandom_multiverse_1790273515463.jpg",
+      "excerpt": "In an era of handheld screens and algorithmic streaming, the theatrical pilgrimage to premium large formats has become a sacred community ritual.",
+      "content": "The theatrical cinema experience was declared fragile, yet the overwhelming demand for 70mm IMAX presentations has proven that audiences will travel across borders for cinematic grandeur.\n\nDirectors like Christopher Nolan and Denis Villeneuve design films with massive aspect ratio shifts, knowing that the towering verticality of an IMAX screen completely overwhelms peripheral vision. When Paul Atreides mounts a colossal sandworm in Dune: Part Two, the Hans Zimmer sub-bass frequencies rattle the ribcage with tangible physical vibration.\n\nThis physical communion cannot be replicated on living room television displays. Cinema retains its status as a temple of shared dreams, where thousands gasp, applaud, and hold their breath in unison.",
+      "tags": ["Cinema", "IMAX", "Sound Design", "Directing"],
+      "relatedIds": ["char-movies-1", "evt-movies-3"]
+    },
+    {
+      "id": "art-5",
+      "categoryId": "comics",
+      "title": "The Multiverse in Panels: How Comic Creators Redefined Modern Mythology",
+      "subtitle": "Tracking the legacy of parallel Earths from Flash of Two Worlds to Spider-Verse",
+      "author": "Marcus Sterling",
+      "readTime": "5 min read",
+      "date": "Sep 08, 2026",
+      "image": "/src/assets/images/hero_fandom_multiverse_1790273515463.jpg",
+      "excerpt": "Long before Hollywood embraced the multiverse, comic book writers used parallel timelines to test characters against their deepest moral reflections.",
+      "content": "In 1961, DC Comics published Gardner Fox's historic 'Flash of Two Worlds', introducing Barry Allen to Jay Garrick across vibrating vibrational frequencies. It was a watershed moment that unlocked eighty years of narrative elasticity.\n\nThe comic book multiverse allows storytellers to examine fundamental ethical questions: Who would Bruce Wayne be without Alfred? What if Kal-El landed in Soviet Ukraine? What if Gwen Stacy received the spider bite instead of Peter?\n\nBy shattering dogmatic canon while preserving core emotional truths, graphic literature pioneered the very narrative frameworks that now dominate global blockbuster culture.",
+      "tags": ["Comic Books", "Graphic Storytelling", "Multiverse", "DC & Marvel"],
+      "relatedIds": ["char-comics-1", "char-comics-2"]
+    },
+    {
+      "id": "art-6",
+      "categoryId": "tv",
+      "title": "The Golden Age of Video Game Television Adaptations",
+      "subtitle": "How The Last of Us and Arcane broke the curse with deep emotional fidelity",
+      "author": "Sarah Lin",
+      "readTime": "5 min read",
+      "date": "Sep 04, 2026",
+      "image": "/src/assets/images/cyberpunk_gaming_championship_1790273541987.jpg",
+      "excerpt": "Translating interactive games to passive television once yielded mockery; today, it yields Emmy-winning prestige drama and animation triumphs.",
+      "content": "For decades, Hollywood treated video game properties as disposable action gimmicks. The breakthrough came when showrunners recognized that gaming's greatest strength was not button-mashing mechanics, but deep emotional intimacy.\n\nHBO's The Last of Us captured the claustrophobic dread and father-daughter pathos of Joel and Ellie, treating quiet character interludes with as much reverence as infected encounters. Meanwhile, Fortiche Production's Arcane delivered painterly 2D/3D hybrid animation and Shakespearean tragedy in the sisterly schism of Vi and Jinx.\n\nGaming has established itself as the richest intellectual goldmine of 21st-century dramatic storytelling.",
+      "tags": ["Prestige TV", "Adaptations", "Video Games", "Arcane"],
+      "relatedIds": ["char-tv-2", "char-tv-3"]
+    },
+    {
+      "id": "art-7",
+      "categoryId": "manga",
+      "title": "Ink & Mortality: The Enduring Legacy of Kentaro Miura's Berserk",
+      "subtitle": "Why the journey of the Black Swordsman remains the apex of dark fantasy",
+      "author": "Daiki Endo",
+      "readTime": "6 min read",
+      "date": "Sep 01, 2026",
+      "image": "/src/assets/images/anime_demon_slayer_village_1790273530168.jpg",
+      "excerpt": "Behind Berserk's visceral combat lies an intimate study of trauma, resilience, and humanity's defiance of predestined fate.",
+      "content": "Kentaro Miura's magnum opus Berserk stands as a towering monument in world literature. Every double-page spread features hundreds of crosshatched lines, meticulously etched with dipping pens over sleepless nights.\n\nYet beneath the gargantuan Dragon Slayer sword and horrific apostle beasts lies a story of profound tender warmth. The Band of the Hawk represents the eternal human search for belonging. Guts' struggle is not merely against Griffith or demonic destiny; it is the daily struggle to protect the flickering embers of love and dignity in an indifferent cosmos.\n\nBerserk continues to inspire generations of mangaka, novelists, and video game creators, proving that sincere artistic conviction outlives mortality itself.",
+      "tags": ["Manga Heritage", "Dark Fantasy", "Berserk", "Illustration"],
+      "relatedIds": ["char-manga-1", "evt-manga-3"]
+    }
+  ],
+  "trailers": [
+    {
+      "id": "trailer-anime-1",
+      "categoryId": "anime",
+      "title": "Demon Slayer: Kimetsu no Yaiba - Infinity Castle Arc Cinematic Trailer",
+      "franchise": "Demon Slayer",
+      "status": "Upcoming",
+      "runtime": "2:45",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/dQw4w9WgXcQ",
+      "thumbnail": "/src/assets/images/anime_demon_slayer_village_1790273530168.jpg",
+      "description": "The ultimate battle begins as the Demon Slayer Corps plunges into Muzan Kibutsuji's shifting dimensional fortress."
+    },
+    {
+      "id": "trailer-anime-2",
+      "categoryId": "anime",
+      "title": "Solo Leveling Season 2 - Arise from the Shadow Official Teaser",
+      "franchise": "Solo Leveling",
+      "status": "Recently Released",
+      "runtime": "1:58",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/dQw4w9WgXcQ",
+      "thumbnail": "/src/assets/images/hero_fandom_multiverse_1790273515463.jpg",
+      "description": "Sung Jin-woo commands his shadow army as global monarch threats awaken across the dimensional gates."
+    },
+    {
+      "id": "trailer-gaming-1",
+      "categoryId": "gaming",
+      "title": "Elden Ring: Shadow of the Erdtree Launch Cinematic",
+      "franchise": "Elden Ring",
+      "status": "Recently Released",
+      "runtime": "3:12",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/dQw4w9WgXcQ",
+      "thumbnail": "/src/assets/images/cyberpunk_gaming_championship_1790273541987.jpg",
+      "description": "Journey through the Land of Shadow, tracing the footsteps of Kind Miquella beneath the scorched Erdtree."
+    },
+    {
+      "id": "trailer-gaming-2",
+      "categoryId": "gaming",
+      "title": "Cyberpunk: Orion Next-Gen Project Teaser Reveal",
+      "franchise": "Cyberpunk",
+      "status": "Upcoming",
+      "runtime": "2:10",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/dQw4w9WgXcQ",
+      "thumbnail": "/src/assets/images/cyberpunk_gaming_championship_1790273541987.jpg",
+      "description": "CD Projekt Red's official glimpse into the expanded corporate warfare and cyberware systems of the new era."
+    },
+    {
+      "id": "trailer-movies-1",
+      "categoryId": "movies",
+      "title": "Avengers: Secret Wars Teaser Trailer",
+      "franchise": "Marvel",
+      "status": "Upcoming",
+      "runtime": "2:34",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/dQw4w9WgXcQ",
+      "thumbnail": "/src/assets/images/hero_fandom_multiverse_1790273515463.jpg",
+      "description": "The multiverse collapses into Battleworld in the catastrophic culmination of the Marvel Cinematic Universe."
+    },
+    {
+      "id": "trailer-movies-2",
+      "categoryId": "movies",
+      "title": "Dune: Part Two 70mm Special Director Edition",
+      "franchise": "Dune",
+      "status": "Recently Released",
+      "runtime": "2:50",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/dQw4w9WgXcQ",
+      "thumbnail": "/src/assets/images/hero_fandom_multiverse_1790273515463.jpg",
+      "description": "Paul Atreides fulfills his terrifying destiny across the golden sands of Arrakis."
+    },
+    {
+      "id": "trailer-tv-1",
+      "categoryId": "tv",
+      "title": "Stranger Things Season 5: The Final Season First Look",
+      "franchise": "Stranger Things",
+      "status": "Upcoming",
+      "runtime": "2:15",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/dQw4w9WgXcQ",
+      "thumbnail": "/src/assets/images/hero_fandom_multiverse_1790273515463.jpg",
+      "description": "Hawkins stands divided between realities as Eleven and the party prepare for their final stand."
+    },
+    {
+      "id": "trailer-kpop-1",
+      "categoryId": "kpop",
+      "title": "BTS Stadium World Tour Concept Film",
+      "franchise": "BTS",
+      "status": "Upcoming",
+      "runtime": "3:05",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/dQw4w9WgXcQ",
+      "thumbnail": "/src/assets/images/kpop_stadium_concert_lights_1790273555448.jpg",
+      "description": "The emotional preview marking the reunion of BTS on global stadium stages with tens of thousands of lightsticks."
+    },
+    {
+      "id": "trailer-comics-1",
+      "categoryId": "comics",
+      "title": "Batman: The Brave and the Bold DC Studios Motion Comic Preview",
+      "franchise": "DC Comics",
+      "status": "Upcoming",
+      "runtime": "1:45",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/dQw4w9WgXcQ",
+      "thumbnail": "/src/assets/images/hero_fandom_multiverse_1790273515463.jpg",
+      "description": "The father-son dynamic of Bruce Wayne and Damian Wayne brought to life in dynamic animated inks."
+    },
+    {
+      "id": "trailer-manga-1",
+      "categoryId": "manga",
+      "title": "Chainsaw Man: Reze Arc Theatrical Movie Announcement",
+      "franchise": "Chainsaw Man",
+      "status": "Upcoming",
+      "runtime": "1:35",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/dQw4w9WgXcQ",
+      "thumbnail": "/src/assets/images/anime_demon_slayer_village_1790273530168.jpg",
+      "description": "Denji meets the enigmatic bomb girl Reze in this cinematic adaptation of Tatsuki Fujimoto's celebrated arc."
+    }
+  ],
+  "audioTracks": [
+    {
+      "id": "audio-1",
+      "categoryId": "anime",
+      "title": "Kamado Tanjiro no Uta (Orchestral Theme)",
+      "artist": "Go Shiina ft. Nami Nakagawa",
+      "duration": "5:32",
+      "type": "Soundtrack",
+      "description": "The emotional choral climax celebrating Tanjiro's first awakening of the Dance of the Fire God."
+    },
+    {
+      "id": "audio-2",
+      "categoryId": "gaming",
+      "title": "The Final Battle: Elden Beast Suite",
+      "artist": "Tsukasa Saitoh / FromSoftware Sound Team",
+      "duration": "4:48",
+      "type": "Soundtrack",
+      "description": "Haunting harp and cathedral choir harmonies that accompany the cosmic duel beneath the Elden Stars."
+    },
+    {
+      "id": "audio-3",
+      "categoryId": "kpop",
+      "title": "Spring Day (Acoustic Fan Anthem)",
+      "artist": "BTS",
+      "duration": "4:34",
+      "type": "Studio Anthem",
+      "description": "Beloved worldwide as the queen of Korean charts, a timeless ode to yearning and friendship."
+    },
+    {
+      "id": "audio-4",
+      "categoryId": "movies",
+      "title": "A Time of Quiet Between the Storms (Dune: Part Two)",
+      "artist": "Hans Zimmer",
+      "duration": "4:16",
+      "type": "Score",
+      "description": "Mesmerizing duduk melodies and desert winds capturing the romance of Paul and Chani."
+    },
+    {
+      "id": "audio-5",
+      "categoryId": "tv",
+      "title": "What Could Have Been (Arcane Finale)",
+      "artist": "Sting ft. Ray Chen",
+      "duration": "3:33",
+      "type": "Soundtrack",
+      "description": "A heart-wrenching violin and vocal masterpiece underscoring the tragic separation of Jinx and Vi."
+    },
+    {
+      "id": "audio-6",
+      "categoryId": "comics",
+      "title": "FandomVerse Cast: The Renaissance of Graphic Novels",
+      "artist": "FandomVerse Editorial Podcast",
+      "duration": "24:10",
+      "type": "Podcast",
+      "description": "Deep-dive roundtable exploring indie comic triumphs, manga crossovers, and the future of print collecting."
+    }
+  ],
+  "galleries": [
+    {
+      "id": "gal-1",
+      "categoryId": "anime",
+      "title": "The Art of Swordsmith Village: Studio Environment Concepts",
+      "images": [
+        "/src/assets/images/anime_demon_slayer_village_1790273530168.jpg",
+        "/src/assets/images/hero_fandom_multiverse_1790273515463.jpg",
+        "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=1200&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1534447677768-be436bb09401?w=1200&auto=format&fit=crop&q=80"
+      ],
+      "curatorNote": "Exclusive visual development studies demonstrating atmospheric light diffusion and wood architecture."
+    },
+    {
+      "id": "gal-2",
+      "categoryId": "gaming",
+      "title": "Night City & Haligtree: High-Contrast World Art",
+      "images": [
+        "/src/assets/images/cyberpunk_gaming_championship_1790273541987.jpg",
+        "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=1200&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=1200&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1511512578047-dfb367046420?w=1200&auto=format&fit=crop&q=80"
+      ],
+      "curatorNote": "From cyberpunk subterranean clubs to ancient ethereal demigod sanctums."
+    },
+    {
+      "id": "gal-3",
+      "categoryId": "kpop",
+      "title": "Stadium Light Oceans & Synchronized Fanlight Spectacles",
+      "images": [
+        "/src/assets/images/kpop_stadium_concert_lights_1790273555448.jpg",
+        "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?w=1200&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1501386761578-eac5c94b800a?w=1200&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=1200&auto=format&fit=crop&q=80"
+      ],
+      "curatorNote": "Witness the mesmerizing visual magic when 60,000 lightsticks sync in wireless harmony."
+    },
+    {
+      "id": "gal-4",
+      "categoryId": "movies",
+      "title": "Cinematic Scale: Practical Sets & Miniature Models",
+      "images": [
+        "/src/assets/images/hero_fandom_multiverse_1790273515463.jpg",
+        "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=1200&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=1200&auto=format&fit=crop&q=80"
+      ],
+      "curatorNote": "High-resolution production stills capturing the tangible realism of practical science-fiction cinema."
+    },
+    {
+      "id": "gal-5",
+      "categoryId": "comics",
+      "title": "Golden Age Inks to Multiverse Variant Covers",
+      "images": [
+        "https://images.unsplash.com/photo-1588497859490-85d1c17db96d?w=1200&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=1200&auto=format&fit=crop&q=80",
+        "/src/assets/images/hero_fandom_multiverse_1790273515463.jpg"
+      ],
+      "curatorNote": "A visual retrospective celebrating dynamic panel layouts and expressive ink crosshatching."
+    },
+    {
+      "id": "gal-6",
+      "categoryId": "tv",
+      "title": "Retro Nostalgia & Chemtech Cityscapes",
+      "images": [
+        "/src/assets/images/cyberpunk_gaming_championship_1790273541987.jpg",
+        "https://images.unsplash.com/photo-1516257984-b1b4d707412e?w=1200&auto=format&fit=crop&q=80"
+      ],
+      "curatorNote": "Iconic set recreations and stylized artistic backgrounds from cultural television moments."
+    },
+    {
+      "id": "gal-7",
+      "categoryId": "manga",
+      "title": "Master Mangaka Manuscript Showcase",
+      "images": [
+        "/src/assets/images/anime_demon_slayer_village_1790273530168.jpg",
+        "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=1200&auto=format&fit=crop&q=80"
+      ],
+      "curatorNote": "Original black and white ink manuscripts showing pencil guides and brush strokes."
+    }
+  ],
+  "merchandise": [
+    {
+      "id": "merch-1",
+      "categoryId": "anime",
+      "franchise": "Demon Slayer",
+      "name": "Kamado Tanjiro Sun Breathing 1/7 Scale Deluxe Figure",
+      "price": 185.00,
+      "priceRange": "$180 - $210",
+      "image": "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=600&auto=format&fit=crop&q=80",
+      "description": "Officially licensed collector resin figure featuring dynamic translucent fire effect parts and swappable Nichirin blade.",
+      "inStock": true,
+      "badge": "Collector Edition"
+    },
+    {
+      "id": "merch-2",
+      "categoryId": "anime",
+      "franchise": "Demon Slayer",
+      "name": "Checkered Haori Heavyweight Oversized Streetwear Hoodie",
+      "price": 68.00,
+      "priceRange": "$65 - $75",
+      "image": "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?w=600&auto=format&fit=crop&q=80",
+      "description": "480 GSM French Terry cotton hoodie with subtle embroidered demon warding ward symbols and custom metal aglets.",
+      "inStock": true,
+      "badge": "Top Seller"
+    },
+    {
+      "id": "merch-3",
+      "categoryId": "gaming",
+      "franchise": "Elden Ring",
+      "name": "Malenia, Blade of Miquella Helm Replica (Life-Size)",
+      "price": 240.00,
+      "priceRange": "$230 - $260",
+      "image": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=600&auto=format&fit=crop&q=80",
+      "description": "Full-scale weathered brass-finish display helmet with Haligtree crest engravings and velvet display stand.",
+      "inStock": true,
+      "badge": "Limited 500 Pcs"
+    },
+    {
+      "id": "merch-4",
+      "categoryId": "gaming",
+      "franchise": "Cyberpunk 2077",
+      "name": "Samurai Cyberpunk LED Bomber Jacket",
+      "price": 125.00,
+      "priceRange": "$120 - $140",
+      "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=600&auto=format&fit=crop&q=80",
+      "description": "Signature high-collar jacket with rechargeable cyan illuminated neck collar, embroidered flaming demon logo, and utility pockets.",
+      "inStock": true,
+      "badge": "Official Collab"
+    },
+    {
+      "id": "merch-5",
+      "categoryId": "kpop",
+      "franchise": "BTS",
+      "name": "Official Army Bomb Special Edition Fanlight",
+      "price": 55.00,
+      "priceRange": "$50 - $60",
+      "image": "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?w=600&auto=format&fit=crop&q=80",
+      "description": "Bluetooth wireless stadium sync concert lightstick with 5 lighting modes, custom strap, and collectible 7-member photocard set.",
+      "inStock": true,
+      "badge": "Concert Essential"
+    },
+    {
+      "id": "merch-6",
+      "categoryId": "kpop",
+      "franchise": "NewJeans",
+      "name": "Bunnies Club Plush Backpack & Badge Set",
+      "price": 42.00,
+      "priceRange": "$40 - $48",
+      "image": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=600&auto=format&fit=crop&q=80",
+      "description": "Y2K inspired ultra-soft bunny plush carrier with enamel pin attachments and holographic lyric book.",
+      "inStock": true,
+      "badge": "Trending"
+    },
+    {
+      "id": "merch-7",
+      "categoryId": "movies",
+      "franchise": "Dune",
+      "name": "Arrakis Desert Crysknife Prop Replica with Scabbard",
+      "price": 89.00,
+      "priceRange": "$85 - $95",
+      "image": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=600&auto=format&fit=crop&q=80",
+      "description": "Carved high-density resin replica sculpted after the tooth of the Great Sandworm Shai-Hulud, presented in a ceremonial box.",
+      "inStock": true,
+      "badge": "Exclusive"
+    },
+    {
+      "id": "merch-8",
+      "categoryId": "comics",
+      "franchise": "Batman",
+      "name": "Gotham Noir Leather Utility Crossbody Bag",
+      "price": 79.00,
+      "priceRange": "$75 - $88",
+      "image": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?w=600&auto=format&fit=crop&q=80",
+      "description": "Matte black full-grain leather sling pack with discreet Bat-insignia gunmetal hardware and magnetic tech dividers.",
+      "inStock": true,
+      "badge": "Utility Series"
+    },
+    {
+      "id": "merch-9",
+      "categoryId": "manga",
+      "franchise": "Berserk",
+      "name": "Brand of Sacrifice Sterling Silver 925 Pendant",
+      "price": 64.00,
+      "priceRange": "$60 - $70",
+      "image": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=600&auto=format&fit=crop&q=80",
+      "description": "Handcrafted oxidized sterling silver talisman suspended on an Italian curb chain, commemorating the Black Swordsman.",
+      "inStock": true,
+      "badge": "Handcrafted"
+    },
+    {
+      "id": "merch-10",
+      "categoryId": "tv",
+      "franchise": "Arcane",
+      "name": "Piltover Chemtech Hextech Crystal Ambient Desk Lamp",
+      "price": 58.00,
+      "priceRange": "$55 - $65",
+      "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=600&auto=format&fit=crop&q=80",
+      "description": "Facet-cut cyan crystal lamp with pulsing brass magnetic base, USB-C touch dimmer, and authentic steampunk detailing.",
+      "inStock": true,
+      "badge": "Best Gift"
+    }
+  ],
+  "upcomingReleases": [
+    {
+      "id": "rel-1",
+      "title": "Demon Slayer: Infinity Castle Part I (IMAX)",
+      "category": "Anime",
+      "date": "Nov 14, 2026",
+      "daysLeft": 51,
+      "platform": "Theatrical Worldwide"
+    },
+    {
+      "id": "rel-2",
+      "title": "Grand Theft Auto VI",
+      "category": "Gaming",
+      "date": "Fall 2026",
+      "daysLeft": 62,
+      "platform": "PlayStation 5 / Xbox Series X"
+    },
+    {
+      "id": "rel-3",
+      "title": "Stranger Things: Season 5 Final Volume",
+      "category": "TV Shows",
+      "date": "Oct 31, 2026",
+      "daysLeft": 37,
+      "platform": "Netflix Global"
+    },
+    {
+      "id": "rel-4",
+      "title": "BTS Reunion 10th Studio Album",
+      "category": "K-Pop",
+      "date": "Nov 20, 2026",
+      "daysLeft": 57,
+      "platform": "BigHit Music / HYBE"
+    },
+    {
+      "id": "rel-5",
+      "title": "Chainsaw Man: Reze Arc Movie",
+      "category": "Manga / Anime",
+      "date": "Dec 05, 2026",
+      "daysLeft": 72,
+      "platform": "MAPPA / TOHO"
+    }
+  ],
+  "chatbotQA": [
+    {
+      "question": "What is FandomVerse?",
+      "keywords": ["what is fandomverse", "about", "overview", "portal", "fandom universe"],
+      "answer": "FandomVerse is an award-winning centralized portal uniting fans across Anime, Gaming, Movies, TV Shows, K-Pop, Comics, and Manga. Discover articles, character vaults, trailers, events, and curated merchandise all in one unified hub!",
+      "quickAction": { "type": "navigate", "target": "about", "label": "Explore About Us" }
+    },
+    {
+      "question": "Which categories are supported?",
+      "keywords": ["categories", "hubs", "fandoms", "sections", "what categories"],
+      "answer": "FandomVerse features 7 premier category hubs: Anime, Gaming, Movies, TV Shows, K-Pop, Comics, and Manga. Each hub includes exclusive characters, articles, events, image galleries, and merchandise.",
+      "quickAction": { "type": "filterCategory", "target": "anime", "label": "Browse Anime Hub" }
+    },
+    {
+      "question": "How does bookmarking work?",
+      "keywords": ["bookmark", "save", "favorites", "notes", "export"],
+      "answer": "Click the bookmark icon on any character, article, event, or merchandise item. Bookmarks persist in your browser's localStorage! You can also write temporary session notes (stored in sessionStorage) and export your saved items as a formatted list.",
+      "quickAction": { "type": "openBookmarks", "label": "Open My Vault" }
+    },
+    {
+      "question": "How do I purchase merchandise or use the cart?",
+      "keywords": ["merchandise", "shop", "cart", "buy", "store", "price", "figure", "hoodie"],
+      "answer": "You can explore officially licensed merchandise, select items, and add them to your interactive shopping cart. The cart calculates live subtotals and billing estimates. Note: As per project specifications, actual payment processing is simulated!",
+      "quickAction": { "type": "openCart", "label": "View Shopping Cart" }
+    },
+    {
+      "question": "Where can I see upcoming events and conventions?",
+      "keywords": ["events", "conventions", "comic con", "expo", "animejapan", "concerts", "dates"],
+      "answer": "Head over to our Events section or any Category Hub to see conventions like AnimeJapan, San Diego Comic-Con, BTS Stadium Tour, and Valorant Champions. You can toggle your attendance RSVP right from the card!",
+      "quickAction": { "type": "scrollTo", "target": "events-section", "label": "View All Events" }
+    },
+    {
+      "question": "Can I watch trailers and listen to soundtracks?",
+      "keywords": ["trailer", "trailers", "video", "audio", "music", "ost", "podcast", "listen"],
+      "answer": "Yes! Browse the Media Hub for embedded high-definition trailers with release status filters, as well as our interactive Audio Player with iconic orchestral soundtracks, fan anthems, and the FandomVerse Podcast.",
+      "quickAction": { "type": "scrollTo", "target": "media-section", "label": "Jump to Media Hub" }
+    }
+  ]
+}

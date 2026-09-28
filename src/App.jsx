@@ -1,11 +1,11 @@
 import React from 'react'
-import ModernHeroSection from './components/HeroSec'
+import FandomVerseLandingPage from './components/LandingPage'
 
 
 const App = () => {
   return (
     <div>
-      <ModernHeroSection/>
+      <FandomVerseLandingPage/>
     </div>
   )
 }
